@@ -1,0 +1,6 @@
+E:\Projects\Payroll Web Service\Payroll Web Service\Payroll Web Service\bin\Payroll Web Service.dll.config
+E:\Projects\Payroll Web Service\Payroll Web Service\Payroll Web Service\bin\Payroll Web Service.dll
+E:\Projects\Payroll Web Service\Payroll Web Service\Payroll Web Service\bin\Payroll Web Service.pdb
+E:\Projects\Payroll Web Service\Payroll Web Service\Payroll Web Service\obj\Release\Payroll Web Service.csproj.CoreCompileInputs.cache
+E:\Projects\Payroll Web Service\Payroll Web Service\Payroll Web Service\obj\Release\Payroll Web Service.dll
+E:\Projects\Payroll Web Service\Payroll Web Service\Payroll Web Service\obj\Release\Payroll Web Service.pdb
